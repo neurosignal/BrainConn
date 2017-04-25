@@ -3,7 +3,7 @@
 My name is Amit Jaiswal and I am Doctoral student at Aalto University in NBE group.
 This is my work repository under course NBE-E4530 Human Brain Connectivity.
 
-## Expected learning
+## Expected learnings
 1. Application of Graph theory
 - To be clear about nodes, edges in human brain.
 - What to consider in which case
@@ -28,10 +28,10 @@ This is my work repository under course NBE-E4530 Human Brain Connectivity.
 - Further possibile developments
 - Clinical applicability and reliability
 
-## Practice
+## Expected hands-on and practice
 1. Hands on exercise 
 2. Work on real data (MEG data)
 3. Write own codes for analysis (in Matlab)
 
 ## Course Credit
-- Credit for my Doctoral course work.
+- I need credit for my Doctoral course work.
