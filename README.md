@@ -1,7 +1,6 @@
 # BrainConn
 ## Introduction
-My name is Amit Jaiswal and I am Doctoral student at Aalto University in NBE group.
-This is my work repository under course NBE-E4530 Human Brain Connectivity.
+This work is a code repository for the course NBE-E4530 (Human Brain Connectivity) at Aalto University in the NBE group during my doctoral study.
 
 ## Expected learnings
 1. Application of Graph theory
